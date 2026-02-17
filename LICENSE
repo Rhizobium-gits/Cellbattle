@@ -1,0 +1,43 @@
+Copyright (c) 2025 Tsubasa Sato (Cell Battle Project)
+All Rights Reserved.
+
+This software and associated documentation files (the "Software") are the
+intellectual property of Tsubasa Sato. The following terms apply to all use
+of the Software:
+
+1. GRANT OF USE
+   You are permitted to:
+   - Clone and run the Software locally for personal, non-commercial,
+     educational purposes only.
+   - View and study the source code for learning purposes.
+
+2. RESTRICTIONS
+   You are NOT permitted to:
+   - Use the Software or any part thereof for commercial purposes,
+     including but not limited to selling, licensing, or generating
+     advertising revenue.
+   - Copy, modify, merge, publish, distribute, sublicense, or sell
+     copies of the Software or derivative works.
+   - Use the game design, card database, visual assets, or game mechanics
+     in any other project without explicit written permission.
+   - Remove or alter any copyright notices contained within the Software.
+
+3. INTELLECTUAL PROPERTY
+   The following elements are specifically protected:
+   - Game mechanics design (bind system, energy system, support card effects,
+     rarity algorithm, trophy scoring system)
+   - Card database (122 protein cards with stats, descriptions, and balance)
+   - Visual design (22 protein shape SVG illustrations, watercolor UI palette)
+   - Rank and avatar systems (16-tier rank progression, 51 avatars,
+     completion reward design)
+   - All source code
+
+4. DISCLAIMER
+   THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS
+   OR IMPLIED. IN NO EVENT SHALL THE AUTHOR BE LIABLE FOR ANY CLAIM, DAMAGES,
+   OR OTHER LIABILITY ARISING FROM THE USE OF THE SOFTWARE.
+
+5. CONTACT
+   For inquiries regarding commercial use, educational institution licensing,
+   or collaboration, please contact via GitHub Issues or the profile contact
+   information of the repository owner.
